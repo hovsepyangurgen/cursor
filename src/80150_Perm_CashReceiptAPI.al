@@ -22,8 +22,11 @@ permissionset 80150 "CR API"
         page "API CR Unposted Lines" = X,
         page "API CR Posted Header" = X,
         page "API CR Posted Lines" = X,
+        page "API CR Combined Header" = X,
+        page "API CR Combined Lines" = X,
         codeunit "CR View Builder" = X,
         codeunit "CR Journal Mgt" = X,
-        codeunit "CR Create Endpoint" = X;
+        codeunit "CR Create Endpoint" = X,
+        codeunit "CR Combined Builder" = X;
 }
 
