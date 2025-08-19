@@ -1,0 +1,25 @@
+{
+  "id": "d3c4d2c7-5f0e-4e74-9a52-8a8b9f5e2c01",
+  "name": "Cash Receipt API",
+  "publisher": "YourCompany",
+  "version": "1.0.0.0",
+  "platform": "23.0.0.0",
+  "application": "23.0.0.0",
+  "idRanges": [
+    {
+      "from": 80100,
+      "to": 80149
+    }
+  ],
+  "runtime": "13.0",
+  "brief": "Custom API for creating and retrieving cash receipts.",
+  "description": "Exposes endpoints to create cash receipts (header with lines) and to retrieve posted and unposted cash receipts with their lines.",
+  "target": "Cloud",
+  "features": [
+    "NoImplicitWith"
+  ],
+  "dependencies": [],
+  "screenshots": [],
+  "contextSensitiveHelpUrl": "https://example.com/help/cash-receipt-api"
+}
+
