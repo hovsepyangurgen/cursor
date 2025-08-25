@@ -1,0 +1,16 @@
+{
+  "id": "f7d3b5b4-7c7b-4a7b-9d60-2f7cc2ef3f31",
+  "name": "Cash Receipts API",
+  "publisher": "Contoso",
+  "version": "1.0.0.0",
+  "platform": "24.0.0.0",
+  "application": "24.0.0.0",
+  "runtime": "13.0",
+  "idRanges": [
+    { "from": 50100, "to": 50149 }
+  ],
+  "features": [
+    "NoImplicitWith"
+  ]
+}
+
